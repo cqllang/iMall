@@ -4,9 +4,10 @@
     <div class="row wrapper border-bottom white-bg page-heading">
         <div class="col-sm-4">
             <h2>控制台</h2>
-            <small class="text-danger"><i>TODO:</i> 此模块暂为静态数据，数据渲染待开发。</small>
+            <!--<small class="text-danger"><i>TODO:</i> 此模块暂为静态数据，数据渲染待开发。</small>
             <br>
             <small class="text-danger"><i>TODO:</i> 意见建议Table数据未来会对接商城的意见建议模块。</small>
+            -->
         </div>
     </div>
 
@@ -132,6 +133,7 @@
                         </div>
                     </div>
                 </div>
+                <!--
                 <div class="project-list">
                     <table class="table table-hover">
                         <tbody>
@@ -193,6 +195,7 @@
                         </tbody>
                     </table>
                 </div>
+                -->
             </div>
         </div>
 
